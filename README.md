@@ -1,5 +1,7 @@
 <h1 align="center"> Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm Oğuzhan Sarıtaş </h1>
 
+
+
 <h3 align="center"> A passionate frontend developer</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oguzhannsaritas" alt="oguzhannsaritas" /></a> </p>
 
@@ -12,6 +14,7 @@
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=oguzhannsaritas&show_icons=true&theme=radical)
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhannsaritas&theme=radical" alt="oguzhannsaritas" /></p>
  <a href="https://github.com/oguzhannsaritas/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhannsaritas&layout=compact&theme=radial&border=true" /></a> 
+ 
 
 
   <h3 align="left">Connect with me:</h3>
@@ -20,6 +23,7 @@
 <a href="https://medium.com/@oguzhannsaritas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@oguzhannsaritas" height="30" width="40" /></a>
   <a href="https://twitter.com/oguzhannsaritas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oguzhannsaritas" height="30" width="40" /></a>
   <a href="https://instagram.com/oguzhannsaritas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oguzhannsaritas" height="30" width="40" /></a>
+  
   
   </p>
     <h3 align="left">Languages and Tools:</h3>
