@@ -10,11 +10,15 @@
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=oguzhannsaritas&show_icons=true&theme=radical)
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhannsaritas&theme=radical" alt="oguzhannsaritas" /></p>
+ <a href="https://github.com/oguzhannsaritas/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhannsaritas&layout=compact&theme=radial&border=true" /></a> 
+
 
   <h3 align="left">Connect with me:</h3>
 <p align=left>
   <a href="https://www.linkedin.com/in/oguzhannsaritas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oguzhannsaritas" height="30" width="40" /></a>
 <a href="https://medium.com/@oguzhannsaritas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@oguzhannsaritas" height="30" width="40" /></a>
+  <a href="https://twitter.com/oguzhannsaritas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oguzhannsaritas" height="30" width="40" /></a>
+  
   </p>
     <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -22,5 +26,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
   
   
