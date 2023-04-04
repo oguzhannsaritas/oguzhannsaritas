@@ -9,7 +9,7 @@
 
   - 🔭 I’m currently working on [twitter-clone](https://github.com/oguzhannsaritas/oguzhan-twitter-clone-responsive)
   - 🌱 I’m currently learning **Vue 3**
-  - 🔭 You can find my blogs here [https://medium.com/@oguzhannsaritas](https://medium.com/@oguzhansaritas)
+  - 🔭 You can find my blogs here [https://medium.com/@oguzhannsaritas](https://medium.com/@oguzhannsaritas)
   - 💬 Ask me about **Html , CSS , JS , VUE**
   - 📫 How to reach me **oguzhan_saritass@hotmail.com**
 
