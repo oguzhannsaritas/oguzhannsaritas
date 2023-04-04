@@ -36,8 +36,8 @@
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=oguzhannsaritas&show_icons=true&theme=radical) 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhannsaritas&theme=radical" alt="oguzhannsaritas" /></p>
- <a href="https://github.com/oguzhannsaritas/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhannsaritas&layout=compact&theme=radial&border=true" />  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="190"/> </a> 
- 
+ <a href="https://github.com/oguzhannsaritas/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhannsaritas&layout=compact&theme=radial&border=true" />  </a> 
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="200" height="100"/>
 
 
 
