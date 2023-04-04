@@ -1,7 +1,6 @@
 <h1 align="center"> Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm Oğuzhan Sarıtaş </h1>
 
 
-
 <h3 align="center"> A passionate, driven, stable and enjoying frontend developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oguzhannsaritas&label=Profile%20views&color=0e75b6&style=flat" alt="oguzhannsaritas" /> </p>
 
@@ -13,11 +12,6 @@
   - 🔭 You can find my blogs here [https://medium.com/@oguzhannsaritas](https://medium.com/@oguzhansaritass)
   - 💬 Ask me about **Html , CSS , JS , VUE**
   - 📫 How to reach me **oguzhan_saritass@hotmail.com**
-
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=oguzhannsaritas&show_icons=true&theme=radical)
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhannsaritas&theme=radical" alt="oguzhannsaritas" /></p>
- <a href="https://github.com/oguzhannsaritas/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhannsaritas&layout=compact&theme=radial&border=true" /></a> 
- 
 
 
   <h3 align="left">Connect with me:</h3>
@@ -39,6 +33,15 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
+
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=oguzhannsaritas&show_icons=true&theme=radical) <br>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="190"/>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhannsaritas&theme=radical" alt="oguzhannsaritas" /></p>
+ <a href="https://github.com/oguzhannsaritas/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhannsaritas&layout=compact&theme=radial&border=true" /> </a> 
+ 
+
+
+
 
   
   
