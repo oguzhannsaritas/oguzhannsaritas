@@ -20,7 +20,7 @@
 <a href="https://medium.com/@oguzhannsaritas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@oguzhannsaritas" height="30" width="40" /></a>
   <a href="https://twitter.com/oguzhannsaritas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oguzhannsaritas" height="30" width="40" /></a>
   <a href="https://instagram.com/oguzhannsaritas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oguzhannsaritas" height="30" width="40" /></a>
-  <a href="https://discord.gg/oguzhannsaritas#5071" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="oguzhannsaritas#5071" height="30" width="40" /></a>
+  <a href="https://discordapp.com/channels/1063352056750026782/1063352057282707470" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="oguzhannsaritas#5071" height="30" width="40" /></a>
   <a href="https://fb.com/https://www.facebook.com/oguzhannsaritas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/oguzhannsaritas/" height="30" width="40" /></a>
   
   
