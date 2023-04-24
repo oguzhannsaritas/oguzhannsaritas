@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oguzhannsaritas" alt="oguzhannsaritas" /></a> </p>
 <p align="left"> <a href="https://twitter.com/oguzhannsaritas" target="blank"><img src="https://img.shields.io/twitter/follow/oguzhannsaritas?logo=twitter&style=for-the-badge" alt="oguzhannsaritas" /></a> </p>
 
-  - 🔭 I’m currently working on [twitter-clone](https://github.com/oguzhannsaritas/oguzhan-twitter-clone-responsive)
+  - 🔭 I’m currently working on [google-clone](https://github.com/oguzhannsaritas/google-clone-responsive)
   - 🌱 I’m currently learning **Vue 3**
   - 🔭 You can find my blogs here [https://medium.com/@oguzhannsaritas](https://medium.com/@oguzhannsaritas)
   - 💬 Ask me about **Html , CSS , JS , VUE**
