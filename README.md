@@ -13,9 +13,9 @@
 <p align="left"> <a href="https://twitter.com/oguzhannsaritas" target="blank"><img src="https://img.shields.io/twitter/follow/oguzhannsaritas?logo=twitter&style=for-the-badge" alt="oguzhannsaritas" /></a> </p>
 
   - 🔭 I’m currently working on [testBase](https://github.com/oguzhannsaritas/testBase)
-  - 🌱 I’m currently learning **Vue 3**
+  - 🌱 I’m currently learning **Docker**
   - 🔭 You can find my blogs here [https://medium.com/@oguzhannsaritas](https://medium.com/@oguzhannsaritas)
-  - 💬 Ask me about **Html , CSS , JS , VUE**
+  - 💬 Ask me about **Html , CSS , JS , VUE.js, Next.js, React.js, Playwright, Jenkins, Selenium, Puppeteer, Docker, Tailwind, Express.js , Vite , Node.js  **
   - 📫 How to reach me **oguzhan_saritass@hotmail.com**
 
 
